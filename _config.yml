@@ -6,10 +6,10 @@
 # --- Required options --- #
 
 # Name of website
-title: EE DAMP
+title: Keshav Singhal
 
 # Your name to show in the footer
-author: EE DAMP
+author: Keshav Singhal
 
 # --- List of links in the navigation bar --- #
 
@@ -47,20 +47,20 @@ round-avatar: false
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: ""
+  email: "keshavsinghal2002@gmail.com"
   # rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: ""
+  facebook: "https://www.facebook.com/keshav.singhal.73113"
   # github: ""
  # twitter: daattali
  # patreon: DeanAttali
  # youtube: c/daattali
 #  medium: yourname
 #  reddit: yourname
-  linkedin: ""
+  linkedin: "https://www.linkedin.com/in/keshav-singhal-/"
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
-  instagram: ""
+  instagram: "https://www.instagram.com/keshav.1711/"
 #  spotify: yourname
 #  telephone: +14159998888
 #  steam: deanat78
