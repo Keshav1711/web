@@ -1,15 +1,17 @@
 ---
 layout: page
-title: DAMP
-subtitle: Department of Electrical Engineering, IIT Bombay
-share-title: EE DAMP
-share-description: Department of Electrical Engineering, IIT Bombay
+title: Keshav Singhal
+subtitle: Welcome to this remote corner of the internet. (I hope it doesn't always remain remote)
+share-title: Keshav Singhal
+share-description: 
 share-img: "assets/img/Home.jpg"
 cover-img: "assets/img/Home.jpg"
 ---
 
 ### About
-Our lives in IIT are hostel-centric, and we interact more with our wing-mates and hostel-mates rather than department people. Suppose there are only a few hostel seniors (or maybe none) from your department. In that case, one may miss out on department-related information like interesting courses or projects, timetable issues, etc. The nitty-gritty in courses and some pre-planning/timeline-making are things only an experienced person can advise about. The EE-DAMP intends to bridge this gap to bring about this information exchange in an effective manner.
+Hey there! I'm Keshav and I'm glad to have you here on my personal website. I'm a third-year undergrad at IIT Bombay pursuing a dual Bachelor's and Master's degree. I am rather academically inclined and my research interests lie in the interdisciplinary fields that bring together aspects of Electrical Engineering and Computer Science.
 
-That said, the DAMP also helps students struggling in academics. We help bridge the gap between students, the department, and the faculty (mainly their faculty advisor(s)). Also, we intend to obtain feedback from students regarding the current curriculum so that our faculty learns the students' perspectives on academics. To help out the Institute Academic Council, the DAMP mentors also request professors for summer/winter projects so that students can get some research exposure.
+Besides academics, I am a movie buff and an avid reader. I have a knack for stories told through the lens of any medium, be it books, movies, tv shows, anime or manga. And when I need a break from all the screen time, I love to lace up my shoes and go for a walk, especially on a crisp winter morning just before the sun rises. There's something magical about being outside in the stillness of the morning, taking in the fresh air and watching the world come to life. 
+
+This website is not just a space for me to show off my academic and professional achievements, but it's also where I'll be sharing my thoughts and experiences through my blog. 
 
