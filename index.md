@@ -1,7 +1,8 @@
 ---
 layout: page
 title: Keshav Singhal
-subtitle: Welcome to this remote corner of the internet! <br/> (I hope it doesn't always remain remote)
+subtitle: Welcome to this remote corner of the internet!
+(I hope it doesn't always remain remote)
 share-title: Keshav Singhal
 share-description: 
 share-img: "assets/img/Art_320.jpg"
