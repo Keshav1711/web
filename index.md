@@ -5,7 +5,7 @@ subtitle: '...'
 share-title: Keshav Singhal
 share-description: 
 share-img:
-cover-img: ["assets/img/Art_320.jpg","assets/img/Art_380.jpg","assets/img/Art_280.jpg","assets/img/Art_130.jpg","assets/img/Art_87.jpg","assets/img/Art_161.png,""assets/img/Art_110.jpg"]
+cover-img: ["assets/img/Art_320.jpg","assets/img/Art_380.jpg","assets/img/Art_280.jpg","assets/img/Art_130.jpg","assets/img/Art_87.jpg","assets/img/Art_161.png","assets/img/Art_110.jpg"]
 ---
 
 ### About
