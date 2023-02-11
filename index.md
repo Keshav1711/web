@@ -4,8 +4,8 @@ title: Keshav Singhal
 subtitle: Welcome to this remote corner of the internet! <br> (I hope it doesn't always remain remote)
 share-title: Keshav Singhal
 share-description: 
-share-img: "assets/img/Home.jpg"
-cover-img: "assets/img/Home.jpg"
+share-img: "assets/img/art_320.jpg"
+cover-img: "assets/img/art_320.jpg"
 ---
 
 ### About
