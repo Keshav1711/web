@@ -1,8 +1,7 @@
 ---
 layout: page
 title: Keshav Singhal
-subtitle: Welcome to this remote corner of the internet!
-(I hope it doesn't always remain remote)
+subtitle: ...
 share-title: Keshav Singhal
 share-description: 
 share-img: "assets/img/Art_320.jpg"
@@ -14,5 +13,5 @@ Hey there! I'm Keshav and I'm glad to have you here on my personal website. I'm 
 
 Besides academics, I am a movie buff and an avid reader. I have a knack for stories told through the lens of any medium, be it books, movies, tv shows, anime or manga. And when I need a break from all the screen time, I love to lace up my shoes and go for a walk, especially on a crisp winter morning just before the sun rises. There's something magical about being outside in the stillness of the morning, taking in the fresh air and watching the world come to life. 
 
-This website is not just a space for me to show off my academic and professional achievements, but it's also where I'll be sharing my thoughts and experiences through my blog. 
+This website is not just a space for me to show off my academic and professional achievements, but it's also where I'll be sharing my thoughts and experiences through my blog. Welcome to this remote corner of the internet! _I hope it doesn't always remain remote)_
 
